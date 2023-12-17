@@ -27,6 +27,5 @@ dependencies:
   - python-tzdata
   - httpx
   - xarray
-  - polars
   - python-duckdb
 
