@@ -18,4 +18,6 @@ dependencies:
   - ipyleaflet
   - ipydatagrid
   - ipycanvas
-  
+  - vega_datasets
+  - plotly
+  - black
