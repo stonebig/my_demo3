@@ -15,4 +15,7 @@ dependencies:
   - sqlite
   - altair
   - ipympl
+  - ipyleaflet
+  - ipydatagrid
+  - ipycanvas
   
