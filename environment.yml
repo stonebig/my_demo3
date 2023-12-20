@@ -22,5 +22,5 @@ dependencies:
   - plotly
   - black
   - xarray
-  - ortools
   - httpx
+  - duckdb
