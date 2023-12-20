@@ -23,4 +23,3 @@ dependencies:
   - black
   - xarray
   - httpx
-  - duckdb
