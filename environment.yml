@@ -21,3 +21,7 @@ dependencies:
   - vega_datasets
   - plotly
   - black
+  - xarray
+  - python-duckdb
+  - ortools-python
+  
